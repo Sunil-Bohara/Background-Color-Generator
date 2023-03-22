@@ -28,10 +28,15 @@ main {
 .container button {
     margin-top: 1rem;
     font-size: inherit;
-    border-radius: 10px;
     border: none;
     outline: none;
     padding: 10px 16px;
-    background-color: #444;
+    background-color: #222;
     color: #efefef;
+    transition: background-color  0.15s;
+}
+
+.container button:hover{
+    cursor: pointer;
+    background-color: #333;
 }

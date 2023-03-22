@@ -1,0 +1,1 @@
+This repository contains a simple web page where user can generate a background color of the page. 
